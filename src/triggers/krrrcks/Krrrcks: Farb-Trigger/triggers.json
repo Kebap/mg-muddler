@@ -27,6 +27,10 @@
         "type": "substring",
       },
       {
+        "pattern": "fragt:", 
+        "type": "substring",
+      },
+      {
         "pattern": "Wecker klingelt bei Dir.", 
         "type": "substring",
       },
