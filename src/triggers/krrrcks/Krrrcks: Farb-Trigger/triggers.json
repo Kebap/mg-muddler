@@ -69,8 +69,8 @@
       {
         "pattern": "Du rufst:", 
         "type": "substring",
-      },
-    ],
+      }
+    ]
   },
   {
     "name": "Kampf: Zustand", 
