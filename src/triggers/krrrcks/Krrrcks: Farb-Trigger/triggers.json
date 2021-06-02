@@ -135,7 +135,7 @@
       {
         "pattern": "steht auf der Schwelle des Todes.", 
         "type": "substring",
-      },
-    ],
-  },
+      }
+    ]
+  }
 ]
