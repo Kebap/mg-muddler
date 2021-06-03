@@ -163,5 +163,39 @@
         "type": "substring"
       }
     ]
+  },
+  {
+    "name": "Para & Normalwelt", 
+    "patterns": [ 
+      {
+        "pattern": "^(.*)Du bist hier im Innern einer (.*) schimmernden Kugel,$", 
+        "type": "regex"
+      },
+      {
+        "pattern": "^(.*)Im Innern einer (.*) schimmernden Kugel.$", 
+        "type": "substring"
+      }
+    ]
+  },
+  {
+    "name": "Bewegung: Ausgaenge", 
+    "patterns": [ 
+      {
+        "pattern": "^Es gibt (.*) sichtbare Ausgaenge:", 
+        "type": "regex"
+      },
+      {
+        "pattern": "Es gibt einen sichtbaren Ausgang: ", 
+        "type": "startOfLine"
+      },
+      {
+        "pattern": "Es gibt keinen sichtbaren Ausgang.", 
+        "type": "startOfLine"
+      },
+      {
+        "pattern": "Es gibt keine sichtbaren Ausgaenge.", 
+        "type": "startOfLine"
+      }
+    ]
   }
 ]
