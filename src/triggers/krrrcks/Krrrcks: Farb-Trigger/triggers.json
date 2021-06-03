@@ -152,6 +152,15 @@
     ]
   },
   {
+    "name": "Kampf: Flucht", 
+    "patterns": [ 
+      {
+        "pattern": "^Die Angst ist staerker als Du ... Du willst nur noch weg hier.$", 
+        "type": "regex"
+      }
+    ]
+  },
+  {
     "name": "Alarm: Post", 
     "patterns": [
       {
