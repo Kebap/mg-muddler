@@ -12,67 +12,67 @@
       },
       {
         "pattern": "^Du teilst .* mit: .*$", 
-        "type": "regex",
+        "type": "regex"
       },
       {
         "pattern": "Du sagst:", 
-        "type": "substring",
+        "type": "substring"
       },
       {
         "pattern": "sagt:", 
-        "type": "substring",
+        "type": "substring"
       },
       {
         "pattern": "Du fragst:", 
-        "type": "substring",
+        "type": "substring"
       },
       {
         "pattern": "fragt:", 
-        "type": "substring",
+        "type": "substring"
       },
       {
         "pattern": "Wecker klingelt bei Dir.", 
-        "type": "substring",
+        "type": "substring"
       },
       {
         "pattern": "denkt:", 
-        "type": "substring",
+        "type": "substring"
       },
       {
         "pattern": "Matrix:", 
-        "type": "substring",
+        "type": "substring"
       },
       {
         "pattern": "[Team ", 
-        "type": "substring",
+        "type": "substring"
       },
       {
         "pattern": "aus der Ferne", 
-        "type": "substring",
+        "type": "substring"
       },
       {
         "pattern": "in der Ferne", 
-        "type": "substring",
+        "type": "substring"
       },
       {
         "pattern": " fluestert Dir zu: ", 
-        "type": "substring",
+        "type": "substring"
       },
       {
         "pattern": "Du fluesterst", 
-        "type": "substring",
+        "type": "substring"
       },
       {
         "pattern": " fragt Dich: ", 
-        "type": "substring",
+        "type": "substring"
       },
       {
         "pattern": " ruft:", 
-        "type": "substring",
+        "type": "substring"
       },
       {
         "pattern": "Du rufst:", 
-        "type": "substring",
+        "type": "substring"
       }
     ]
   },
@@ -86,59 +86,59 @@
       },
       {
         "pattern": "ist leicht geschwaecht.", 
-        "type": "substring",
+        "type": "substring"
       },
       {
         "pattern": "ist schon etwas geschwaecht.", 
-        "type": "substring",
+        "type": "substring"
       },
       {
         "pattern": "fuehlte sich auch schon besser.", 
-        "type": "substring",
+        "type": "substring"
       },
       {
         "pattern": "fuehlte sich heute schon besser.", 
-        "type": "substring",
+        "type": "substring"
       },
       {
         "pattern": "ist leicht angekratzt.", 
-        "type": "substring",
+        "type": "substring"
       },
       {
         "pattern": "ist leicht angeschlagen.", 
-        "type": "substring",
+        "type": "substring"
       },
       {
         "pattern": "ist nicht mehr taufrisch.", 
-        "type": "substring",
+        "type": "substring"
       },
       {
         "pattern": "sieht nicht mehr taufrisch aus.", 
-        "type": "substring",
+        "type": "substring"
       },
       {
         "pattern": "sieht recht mitgenommen aus.", 
-        "type": "substring",
+        "type": "substring"
       },
       {
         "pattern": "macht einen mitgenommenen Eindruck.", 
-        "type": "substring",
+        "type": "substring"
       },
       {
         "pattern": "wankt bereits bedenklich.", 
-        "type": "substring",
+        "type": "substring"
       },
       {
         "pattern": "ist in keiner guten Verfassung.", 
-        "type": "substring",
+        "type": "substring"
       },
       {
         "pattern": "braucht dringend einen Arzt.", 
-        "type": "substring",
+        "type": "substring"
       },
       {
         "pattern": "steht auf der Schwelle des Todes.", 
-        "type": "substring",
+        "type": "substring"
       }
     ]
   }
