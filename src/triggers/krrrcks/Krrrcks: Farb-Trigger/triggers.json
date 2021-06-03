@@ -155,6 +155,10 @@
     "name": "Alarm: Post", 
     "patterns": [
       {
+        "pattern": "^Du hast \\d* neuen? Briefe? im Postamt liegen\\.$", 
+        "type": "regex"
+      },
+      {
         "pattern": "Ein Postreiter ruft Dir aus einiger Entfernung zu, dass Du neue Post hast!", 
         "type": "substring"
       }
