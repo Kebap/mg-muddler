@@ -141,5 +141,14 @@
         "type": "substring"
       }
     ]
+  },
+  {
+    "name": "Kampf: Infos", 
+    "patterns": [ 
+      {
+        "pattern": "faellt tot zu Boden.", 
+        "type": "substring"
+      }
+    ]
   }
 ]
