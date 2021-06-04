@@ -3,9 +3,9 @@
 Trying to muddle code for MorgenGrauen
 
 - muddle: 
--- https://github.com/demonnic/muddler
--- https://github.com/demonnic/muddler/wiki 
--- https://demonnic.com/?p=140
+  - https://github.com/demonnic/muddler
+  - https://github.com/demonnic/muddler/wiki 
+  - https://demonnic.com/?p=140
 - MorgenGrauen: https://github.com/MorgenGrauen/mg-mudlet
 
 Status:
