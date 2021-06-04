@@ -23,7 +23,7 @@
         "type": "substring"
       },
       {
-        "pattern": "Du fragst:", 
+        "pattern": "Du fragst", 
         "type": "substring"
       },
       {
