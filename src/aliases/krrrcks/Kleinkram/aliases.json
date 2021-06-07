@@ -16,7 +16,7 @@
     "regex": "^#home$"
   },
   {
-    "name": "Kämpfer: Grüße",
+    "name": "Kämpfer Grüße",
     "regex": "^#gruesse (.+)$"
   }
 ]
