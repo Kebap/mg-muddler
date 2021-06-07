@@ -10,7 +10,9 @@ Trying to muddle code for MorgenGrauen
 
 Status:
 - Created muddle workflow file in /.github
-- Copied 2 triggers from original package into muddle src files
+- Copied all items (triggers, alias, etc.) from original package into muddle src files
+  - Only missing is configuration of folders, incl. comments in folders, order of folders
+  - Opened feature requests with demonnic upstream to possibly add those in the future
 - Workflows run alright
   - "Actions" tab shows list of current and last workflows
   - Standard duration for muddle is 20-30sec, very nice
@@ -25,6 +27,5 @@ Status:
   - Import .zip to Mudlet works fine, triggers seem very alike
 
 Plan:
-- Continue transfer all items to muddle, to work from source files and not XML anymore
 - Need to judge if moving items and refactoring code becomes easier in lua files & json or not
 - At least more new contributors can easier see and edit files than in between XML configuration!
