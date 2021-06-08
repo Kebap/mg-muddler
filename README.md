@@ -1,6 +1,10 @@
-# mg-muddler
+mg-muddler
+==========
 
 Trying to muddle code for MorgenGrauen
+
+Upstream
+--------
 
 - muddle: 
   - https://github.com/demonnic/muddler
@@ -8,7 +12,9 @@ Trying to muddle code for MorgenGrauen
   - https://demonnic.com/?p=140
 - MorgenGrauen: https://github.com/MorgenGrauen/mg-mudlet
 
-Status:
+Status
+------
+
 - Created muddle workflow file in /.github
 - Copied all items (triggers, alias, etc.) from original package into muddle src files
   - Only missing is configuration of folders, incl. comments in folders, order of folders
@@ -26,6 +32,9 @@ Status:
   - Noted a few differences in resulting XML file structure
   - Import .zip to Mudlet works fine, triggers seem very alike
 
-Plan:
+Plan
+----
+
 - Need to judge if moving items and refactoring code becomes easier in lua files & json or not
 - At least more new contributors can easier see and edit files than in between XML configuration!
+- Test [Plan](#plan)
